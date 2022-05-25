@@ -10,8 +10,8 @@ It's UI is same as Netflix.
 
 ![App Screenshot](https://i.postimg.cc/3wvD34p5/Screenshot-988.png)
 
-# 🔗 Links
-[![Hosted Link](https://netflix-landing-page-clone-azure.vercel.app/)
+# Hosted Link
+![Hosted Link](https://netflix-landing-page-clone-azure.vercel.app/)
 
 
 ## Features
