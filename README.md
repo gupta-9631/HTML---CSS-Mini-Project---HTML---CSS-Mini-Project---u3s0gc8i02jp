@@ -1,5 +1,3 @@
-# html-css-project-boilerplate
-
 # Netflix Landing Page Clone
 
 I have made a landing page of Netflix India using HTML
@@ -11,6 +9,9 @@ It's UI is same as Netflix.
 ## Screenshot
 
 ![App Screenshot](https://i.postimg.cc/3wvD34p5/Screenshot-988.png)
+
+# 🔗 Links
+[![Hosted Link](https://netflix-landing-page-clone-azure.vercel.app/)
 
 
 ## Features
